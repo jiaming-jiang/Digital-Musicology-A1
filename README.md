@@ -1,9 +1,10 @@
 # Guide
 
-We reorganized all the composer folders into "Data".
-And you can find code about Task A, B1 and B2 in the corresponding notebooks.
+We reorganized all the composer folders into the "Data" folder.
 
-## Aligned Scores and Performances (ASAP) dataset
+And you can find code about Task A, B1 and B2 in the corresponding notebooks.(for B1 you can start from the Task B1 in TaskB1.ipynb since it shares something with A)
+
+### Aligned Scores and Performances (ASAP) dataset
 ASAP is a dataset of aligned musical scores (both MIDI and MusicXML) and performances (audio and MIDI), all with downbeat, beat, time signature, and key signature annotations. 
 
 This repository contains all of the annotations, as well as all of the MIDI and MusicXML files. To get the audio files, follow the instructions below.
